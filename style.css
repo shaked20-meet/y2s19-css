@@ -1,1 +1,22 @@
+body {
+	background-color: #DB5261;
+	color: white;
+	text-align: center;
+}
 
+a{
+	color:#560039;
+
+}
+p{
+	font-family: "Times New Roman", Times, serif;
+}
+.Vegitarian_Food{
+	color:green;
+}
+.Non_V{
+	color:black;
+}
+#my_id{
+	background-color: red;
+}
